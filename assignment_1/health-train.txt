@@ -1,0 +1,16 @@
+yes,54,good,less
+no,55,good,less
+no,26,good,less
+yes,40,good,more
+yes,25,poor,less
+no,13,poor,more
+no,15,good,less
+no,50,poor,more
+yes,33,good,more
+no,35,good,less
+no,41,good,less
+yes,30,poor,more
+no,39,poor,more
+no,20,good,less
+yes,18,poor,less
+yes,55,good,more

@@ -1,0 +1,8 @@
+yes,21,poor
+no,50,good
+no,23,good
+yes,45,poor
+yes,51,good
+no,60,good
+no,15,poor
+no,18,good
