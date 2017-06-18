@@ -1,4 +1,4 @@
-#Final exam for Py_ML course.
+# Final exam for Py_ML course.
 
 Grade of the written test: 1.7;
 (I made 3 mistakes in the first page.)
