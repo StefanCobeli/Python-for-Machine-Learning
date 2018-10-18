@@ -42,7 +42,8 @@ Try to distinguish between fruits based on their color and size.
 
 Introduction into _Numpy_ and _Matplotlib_ libraries.
 
-Why and when should one use _Numpy_? You will see time performance arguments,
+Why and when should one use _Numpy_? 
+You will see time performance arguments
 and useful tricks for matrix manipulations 
 (such as indexing, reshaping, broadcasting, ...).
 
