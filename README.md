@@ -14,13 +14,13 @@ Each of the 4 lectures are Jupyter Notebooks, exported as _pdf_ files,
 with examples of basic concepts from subjects related to 
 _Python_, _Numpy_, _Matplotlib_ and _Machine Learning algorithms_.
 
-In the assignments folders you can find the 4 given homeworks,
+In the assignments folders one can find the 4 given homeworks,
 corresponding to each lecture.
 Each folder contains the original requirements, 
 the solved version with feedback from the reviewers
 and any additional material generated or used during the task.
 
-### Lecture 1
+### [Lecture 1](https://github.com/StefanCobeli/Python-for-Machine-Learning/blob/master/lecture1.pdf)
 
 Introduction into _Python_ programming with:
   - the traditional "hello world";
@@ -38,7 +38,7 @@ Try to distinguish between fruits based on their color and size.
 ![fruits](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuZiVbTu0lVPFmiyxG_mQQSPEImin7o1mkoD0Zx4c-y0o1A-su7w)
 
 
-### Lecture 2
+### [Lecture 2](https://github.com/StefanCobeli/Python-for-Machine-Learning/blob/master/lecture2.pdf)
 
 Introduction into _Numpy_ and _Matplotlib_ libraries.
 
@@ -53,7 +53,7 @@ Take a grasp of the __Boston dataset__  from _sklearn_ library.
 Analyze and find insides about the data. 
 
 
-### Lecture 3
+### [Lecture 3](https://github.com/StefanCobeli/Python-for-Machine-Learning/blob/master/lecture3.pdf)
 
 Simulate random processes, such as _Monte Carlo Markov Chain_, with _Numpy_.
 
@@ -62,7 +62,7 @@ written in C/C++, Fortran or Cuda, into your Python code.
 
 Apply these concepts in image filtering.
 
-### Lecture 4
+### [Lecture 4](https://github.com/StefanCobeli/Python-for-Machine-Learning/blob/master/lecture4.pdf)
 
 __Rounding__, __Overflow__ and __Linear Algebra__.
 
@@ -71,11 +71,11 @@ Analyze what problems can appear when working with large numbers in _Numpy_.
 Short implementation of the Linear Regression 
 and the Principal Component Analysis algorithms.
 
-### Final Exam
+### [Final Exam](https://github.com/StefanCobeli/Python-for-Machine-Learning/tree/master/final_exam)
 
 Test the main topics discussed in the lectures.
 
-### Universal Approximation
+### [Universal Approximation](https://github.com/StefanCobeli/Python-for-Machine-Learning/blob/master/universal-approximation.pdf)
 
 Presentation made for the 
 [Neural Networks Seminary](http://wiki.ml.tu-berlin.de/wiki/Main/SS17_NN). 
